@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ankit Shah... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Ankit Shah and I am an enthusiastic learner, always eager to stay updated with the latest advancements in the field of computer science. I am particularly interested in exploring the fields of artificial intelligence, web development, and blockchain. Beyond my technical skills, I possess excellent communication skills, enabling me to effectively convey complex ideas to both technical and non-technical audiences</h2>
 
 ###
 
